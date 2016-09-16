@@ -10,5 +10,5 @@ print(sys.getrecursionlimit())
 x = 1
 while True:
     y = fac(x)
+    print (x)
     x += 1
-print(x - 1)
